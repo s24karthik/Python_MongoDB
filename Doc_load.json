@@ -1,0 +1,16 @@
+{
+    "Brand": "Samsung",
+    "Model": "Samsung Galaxy S23 Ultra",
+    "Launch": "feb 2023",
+    "Specs": {
+        "data": {
+            "SoC": "Snapdragon 8 Gen 2 for Galaxy",
+            "Display": "LTPO 3 1-120Hz Dynamic Amoled",
+            "Ram": "12GB LPDDR5X",
+            "Storage": "UFS 4.0 256GB - 1TB",
+            "Battery": "5000Mah",
+            "Charging": "45Watts"
+        }
+    },
+    "Price": "Just 124000"
+}

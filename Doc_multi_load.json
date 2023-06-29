@@ -1,0 +1,32 @@
+[{
+    "Brand": "Samsung",
+    "Model": "Samsung Galaxy S23 Plus",
+    "Launch": "feb 2023",
+    "Specs": {
+        "data": {
+            "SoC": "Snapdragon 8 Gen 2 for Galaxy",
+            "Display": "LTPs 48 - 120Hz Dynamic Amoled",
+            "Ram": "8GB LPDDR5X",
+            "Storage": "UFS 4.0 256GB",
+            "Battery": "4800Mah",
+            "Charging": "45Watts"
+        }
+    },
+    "Price": "Just 94000"
+},
+{
+    "Brand": "Apple",
+    "Model": "iPhone 14 Pro Max",
+    "Launch": "Sept 2020",
+    "Specs": {
+        "data": {
+            "SoC": "Apple Bionic A16",
+            "Display": "LTPO 3 1-120Hz OLED",
+            "Ram": "6GB LPDDR5",
+            "Storage": "NVME 256GB - 1TB",
+            "Battery": "4130Mah",
+            "Charging": "30Watts"
+        }
+    },
+    "Price": "Just 139999"
+}]
