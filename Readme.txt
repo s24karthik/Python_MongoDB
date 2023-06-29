@@ -1,4 +1,4 @@
-# Python codebase snippets for various GCP Biqguery services #
+# Python codebase snippets for various MongoDB workflows #
 
 1.  A snippet to get connected to popular NoSQL DB - MONGODB
 2.  Hope you have setted up the MongoDB account, cluster and access
