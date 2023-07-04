@@ -1,5 +1,4 @@
 # Python codebase snippets for various GCP Biqguery services #
-import pandas as pd
 import mongo_basic
 from pymongo import MongoClient
 
